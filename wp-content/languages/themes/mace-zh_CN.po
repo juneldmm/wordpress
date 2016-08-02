@@ -1,0 +1,276 @@
+# Translation of Mace in Chinese (China)
+# This file is distributed under the same license as the Mace package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-23 04:15:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Mace\n"
+
+#. Theme Name of the plugin/theme
+msgid "Mace"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Mace is a fully responsive WordPress theme designed for restaurants, cafes and food bloggers. It has a warm color scheme consisting of a brown background and an elegant orange navigation bar. It comes with a built-in slider, two sidebar positions, social icons and tons of customization options. If you want to setup a food related website quickly and effortlessly then Mace is the theme that you have been looking for."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "杂项"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索&hellip;"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: inc/template-tags.php:165
+msgid "<span class=\"posted-on\"><i class=\"fa fa-clock-o\"></i> %1$s</span><span class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: inc/template-tags.php:137
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:104
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: inc/template-tags.php:97
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:91
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">说：</span>"
+
+#: inc/template-tags.php:81
+msgid "Pingback:"
+msgstr "Pingback 引用通告："
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 早期文章"
+
+#: inc/extras.php:104
+msgid "<a href=\"https://profiles.wordpress.org/thehosts/\" rel=\"nofollow\">WordPress Theme</a> by The Hosts"
+msgstr ""
+
+#: inc/extras.php:108
+msgid "<a href=\"https://profiles.wordpress.org/thehosts/\">WordPress Theme</a> by The Hosts"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/extras.php:74
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: functions.php:42
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Sidebar"
+msgstr "边栏"
+
+#: content-single.php:57
+msgid "Permalink"
+msgstr "固定链接"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "主要菜单"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:29 content-single.php:32
+msgid ", "
+msgstr "、"
+
+#: content-page.php:23 content-single.php:61 inc/template-tags.php:81
+#: inc/template-tags.php:100
+msgid "Edit"
+msgstr "编辑"
+
+#: content-page.php:18 content-single.php:20 inc/template-tags.php:140
+msgid "Pages:"
+msgstr "页面："
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 →"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "← 早期评论"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#: archive.php:66
+msgid "Chats"
+msgstr "聊天"
+
+#: archive.php:69 sidebar.php:17
+msgid "Archives"
+msgstr "归档"
+
+#: archive.php:63
+msgid "Audios"
+msgstr "音频"
+
+#: archive.php:60
+msgid "Statuses"
+msgstr "状态"
+
+#: archive.php:57
+msgid "Links"
+msgstr "链接"
+
+#: archive.php:54
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:51
+msgid "Videos"
+msgstr "视频"
+
+#: archive.php:48
+msgid "Images"
+msgstr "图像"
+
+#: archive.php:45
+msgid "Galleries"
+msgstr "画廊"
+
+#: archive.php:42
+msgid "Asides"
+msgstr "旁白"
+
+#: archive.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:39
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:36
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: archive.php:33
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: archive.php:30
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "试试在月度归档中寻找。%1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "常用分类目录"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Theme URI of the plugin/theme
+msgid "http://the-hosts.com/mace-wordpress-theme/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The Hosts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://the-hosts.com/"
+msgstr ""
